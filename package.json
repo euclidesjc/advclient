@@ -1,7 +1,6 @@
 {
   "name": "advclient",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "next dev"
@@ -18,8 +17,10 @@
   },
   "homepage": "https://github.com/euclidesjc/advclient#readme",
   "dependencies": {
-    "next": "^12.0.8",
+    "bootstrap": "^5.1.3",
+    "next": "^12.0.10",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
-  }
+  },
+  "description": ""
 }
